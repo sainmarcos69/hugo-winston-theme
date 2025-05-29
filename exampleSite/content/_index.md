@@ -1,6 +1,10 @@
 ---
-title: ✍️✍️✍️Write it down✍️✍️✍️
+title: ✍️Write it down✍️
 description: In case I forget, here are my notes. 
 ---
 
-#✍️ Just write it down so you don't forget.✍️
+Reasons to Write It Down
+
+1. So, I won't forget
+2. So, I worn't forget
+3. So, I won't forget
