@@ -71,3 +71,8 @@ pygmentsUseClasses = true
     identifier = "task"
     weight = 5
     url = "/task/" 
+    [[menu.main]]
+    name = "Essentials"
+    identifier = "essentials"
+    weight = 6
+    url = "/essentials/" 
