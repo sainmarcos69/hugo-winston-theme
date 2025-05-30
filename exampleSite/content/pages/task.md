@@ -1,6 +1,5 @@
 ---
-title: Tasks
-date: 2025-05-14
+title: 'Tasks'
 url: "/task/"
 ---
 
