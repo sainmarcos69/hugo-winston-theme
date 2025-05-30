@@ -3,8 +3,6 @@ title: ✍️Write it down
 description: In case I forget, here are my notes. 
 ---
 
-# Reasons to Write It Down
+# _Now how do I do this again?_
 
-## So, I won't forget
-## So, I worn't forget
-## So, I won't forget
+# _Let me check my notes_
