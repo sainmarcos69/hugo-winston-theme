@@ -1,6 +1,6 @@
 ---
 title: Processing Magazine
-date: 2025-5-30
+date: 2025-05-30
 description: "processing new magazines"
 tags:
    - magazine 
