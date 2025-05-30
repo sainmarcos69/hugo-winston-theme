@@ -1,9 +1,7 @@
 ---
 title: Tasks
 date: 2025-05-14
-draft: false
-tags: 
-  - task
+url: "/task/"
 ---
 
 ## Daily Tasks
