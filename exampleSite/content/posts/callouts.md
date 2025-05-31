@@ -14,10 +14,10 @@ This is an information callout.
 This is a warning message.
 {{< /callout >}}
 
-{{< callout type="error" title="Caution" >}}
+{{< callout type="error" title="Error" >}}
 This is an error message.
 {{< /callout >}}
 
-{{< callout type="success" title="Caution" >}}
+{{< callout type="success" title="Success" >}}
 This is a success message.
 {{< /callout >}}
