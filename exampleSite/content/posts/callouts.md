@@ -7,9 +7,17 @@ tags:
    
 ---
 {{< callout type="info" title="Information" >}}
-This is an informational callout with default styling.
+This is an information callout.
 {{< /callout >}}
 
 {{< callout type="warning" title="Caution" >}}
+This is a warning message.
+{{< /callout >}}
+
+{{< callout type="error" title="Caution" >}}
+This is a warning message.
+{{< /callout >}}
+
+{{< callout type="success" title="Caution" >}}
 This is a warning message.
 {{< /callout >}}
