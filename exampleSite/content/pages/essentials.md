@@ -3,6 +3,9 @@ title: 'Essentials'
 url: "/essentials/"
 ---
 
+<li><a href="http://leap.sdcl.org/leapwebapp/login" target="_blank">LEAP</a></li>
+
+
 #                 ☝️ Most Important ☝️
 *   [📝SharePoints📝](https://sdcountycagov.sharepoint.com/_layouts/15/sharepoint.aspx?v=sites)  
 *   [Timesheet](https://cosdremote.sandiegocounty.gov/?ID=5c0eda70-7bd3-4544-c5e9-54ef5484db9a#/login)
