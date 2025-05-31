@@ -15,9 +15,9 @@ This is a warning message.
 {{< /callout >}}
 
 {{< callout type="error" title="Caution" >}}
-This is a warning message.
+This is an error message.
 {{< /callout >}}
 
 {{< callout type="success" title="Caution" >}}
-This is a warning message.
+This is a success message.
 {{< /callout >}}
