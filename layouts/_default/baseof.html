@@ -53,6 +53,8 @@
     {{ partial "footer.html" . }}
   </div>
 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
   {{ $scripts := resources.Get "js/scripts.js" }}
 
   {{ $js := slice $scripts | resources.Concat "js/bundle.js" }}
