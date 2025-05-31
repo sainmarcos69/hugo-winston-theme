@@ -3,7 +3,8 @@ title: 'Essentials'
 url: "/essentials/"
 ---
 
-[🌐Intranet🌐](https://sdcountycagov.sharepoint.com/_layouts/15/sharepoint.aspx?&login_hint=lam.nguyen@sdcounty.ca.gov)  
+# ☝️ Most Important
+[🌐SharePoints🌐](https://sdcountycagov.sharepoint.com/_layouts/15/sharepoint.aspx?&login_hint=lam.nguyen@sdcounty.ca.gov)  
 
 # Most Useful
 *   [LEAP](http://leap.sdcl.org/leapwebapp/login)
