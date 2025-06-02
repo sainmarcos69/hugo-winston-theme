@@ -20,34 +20,16 @@ url: "/essentials/"
 - {{<extlink Intranet="SDCL" href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Home.aspx/" icon="fa fa-external-link">}}
 - {{<extlink text="Insite Page" href="https://sdcountycagov.sharepoint.com/sites/InSite/Pages/default.aspx" icon="fa fa-external-link">}}
 - {{<extlink text="Shared Documents" href="https://sdcountycagov.sharepoint.com/sites/SDCL/BranchSites/SM/Page%20Library/Shared%20Documents.aspx" icon="fa fa-external-link">}}
-- {{<extlink text="LME" href="" icon="fa fa-external-link">}}
-- {{<extlink text="https://sdcountycagov.sharepoint.com/sites/SDCL/Programming/SitePages/Home.aspx" icon="fa fa-external-link">}}
 - {{<extlink text="FORMS" href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Forms.aspx" icon="fa fa-external-link">}}
 - {{<extlink text="BI-WEEKLY MEETING NOTES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Bi-Weekly%20Department%20Updates.aspx" icon="fa fa-external-link">}}
-- {{<extlink text="SDCL" href="" icon="fa fa-external-link">}}
 - {{<extlink text="STAFF" href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Staff.aspx" icon="fa fa-external-link">}}
 - {{<extlink text="BRANCH PROCEDURES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/SitePages/Home.aspx" icon="fa fa-external-link">}}
 - {{<extlink text="PEOPLESOFT" href="https://cosdremote.sandiegocounty.gov/?ID=5c0eda70-7bd3-4544-c5e9-54ef5484db9a#/apps" icon="fa fa-external-link">}}
 
 #  ☝️ SDCL RESOURCES ☝️
-- {{<extlink text="SDCL" href="http://sdcl.org/" icon="fa fa-external-link">}}
-- {{<extlink text="SDCL" href="http://sdcl.org/" icon="fa fa-external-link">}}
-- {{<extlink text="SDCL" href="http://sdcl.org/" icon="fa fa-external-link">}}
-- {{<extlink text="SDCL" href="http://sdcl.org/" icon="fa fa-external-link">}}
-- {{<extlink text="SDCL" href="http://sdcl.org/" icon="fa fa-external-link">}}
-- {{<extlink text="SDCL" href="http://sdcl.org/" icon="fa fa-external-link">}}
-  
-
-
-
-
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/Shared%20Documents/Patron%20Registration.pdf#search=Patron" target="_blank">Patron Registration</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/Shared%20Documents/Patron%20Codes.pdf#search=Patron" target="_blank">Patron Codes</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/BranchSites/SM/Shared%20Documents/Red%20Book%20-%20Branch%20Directory%20Listing/SDCL_Telephone%20Roster%20-%20April%20%202024.pdf" target="_blank">RED BOOK BRANCH DIRECTORY</a><br />
-<li><a href="https://marketplace.overdrive.com/Account/Login" target="_blank">🅾️Overdrive Marketplace🅾️</a><br />	
-<li><a href="https://sdcl.libapps.com/libapps/login.php" target="_blank">📚LibApps Login @ San Diego County Library📚</a><br />
-
-
+- {{<extlink text="PATRON REGISTRATION" href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/Shared%20Documents/Patron%20Registration.pdf#search=Patron" icon="fa fa-external-link">}}
+- {{<extlink text="PATRON CODES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/Shared%20Documents/Patron%20Codes.pdf#search=Patron" icon="fa fa-external-link">}}
+- {{<extlink text="RED BOOK DIRECTORY" href="https://sdcountycagov.sharepoint.com/sites/SDCL/BranchSites/SM/Shared%20Documents/Red%20Book%20-%20Branch%20Directory%20Listing/SDCL_Telephone%20Roster%20-%20April%20%202024.pdf" icon="fa fa-external-link">}}
 
 #  ☝️ CLASSES / ACADEMY ☝️
 
@@ -70,12 +52,8 @@ url: "/essentials/"
 
 #  ☝️ FORMS FOR CUSTOMERS ☝️
 
-- {{<extlink text="NICHE ACADEMY" href="" icon="fa fa-external-link">}}
-- {{<extlink text="NICHE ACADEMY" href="https://my.nicheacademy.com/sandiego-staff/course/42197/lesson/134893" icon="fa fa-external-link">}}
-- 
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/Shared%20Documents/Internet%20and%20DVD%20Parental%20Consent%20-%20English%20and%20Spanish.pdf" target="_blank">Internet and DVD Consent Form</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/Shared%20Documents/Library%20Card%20Application%20-%20English%20and%20Spanish.pdf" target="_blank">Library Card Application English / Spanish</a><br />
-
+- {{<extlink text="INTERNET / DVD CONSENT FORM" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Shared%20Documents/Internet%20and%20DVD%20Parental%20Consent%20-%20English%20and%20Spanish.pdf" icon="fa fa-external-link">}}
+- {{<extlink text="LIBRARY CARD APPLICATION" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Shared%20Documents/Library%20Card%20Application%20-%20English%20and%20Spanish.pdf" icon="fa fa-external-link">}}
 
 
 # ☝️ CUSTOMER EXPERIENCES ☝️
