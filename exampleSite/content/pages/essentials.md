@@ -30,6 +30,16 @@ url: "/essentials/"
 - {{<extlink text="PEOPLESOFT" href="https://cosdremote.sandiegocounty.gov/?ID=5c0eda70-7bd3-4544-c5e9-54ef5484db9a#/apps" icon="fa fa-external-link">}}
 
 #  ☝️ SDCL RESOURCES ☝️
+- {{<extlink text="SDCL" href="http://sdcl.org/" icon="fa fa-external-link">}}
+- {{<extlink text="SDCL" href="http://sdcl.org/" icon="fa fa-external-link">}}
+- {{<extlink text="SDCL" href="http://sdcl.org/" icon="fa fa-external-link">}}
+- {{<extlink text="SDCL" href="http://sdcl.org/" icon="fa fa-external-link">}}
+- {{<extlink text="SDCL" href="http://sdcl.org/" icon="fa fa-external-link">}}
+- {{<extlink text="SDCL" href="http://sdcl.org/" icon="fa fa-external-link">}}
+  
+
+
+
 
 <li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/Shared%20Documents/Patron%20Registration.pdf#search=Patron" target="_blank">Patron Registration</a><br />
 <li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/Shared%20Documents/Patron%20Codes.pdf#search=Patron" target="_blank">Patron Codes</a><br />
@@ -41,25 +51,28 @@ url: "/essentials/"
 
 #  ☝️ CLASSES / ACADEMY ☝️
 
-<li><a href="https://cosdlms.sumtotal.host/rcore/c/dash/home/Learner?isDeepLink=1" target="_blank">LEARNING MANAGEMENT SYSTEMS</a><br />
-<li><a href="https://my.nicheacademy.com/sandiego-staff/course/42197/lesson/134893" target="_blank">Niche Academy</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/SitePages/Training%20Resources.aspx" target="_blank">LEAP Training</a><br />
-
+- {{<extlink text="LEARNING MANAGEMENT SYSTEMS" href="https://cosdlms.sumtotal.host/rcore/c/dash/home/Learner?isDeepLink=1" icon="fa fa-external-link">}}
+- {{<extlink text="NICHE ACADEMY" href="https://my.nicheacademy.com/sandiego-staff/course/42197/lesson/134893" icon="fa fa-external-link">}}
+- {{<extlink text="LEAP TRAINING" href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/SitePages/Training%20Resources.aspx" icon="fa fa-external-link">}}
 
 
 #  ☝️ INSTRUCTIONS / PROCEDURES ☝️
 
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/Shared%20Documents/INN-Reach%20Processing.pdf" target="_blank">INN-REACH Processing</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/Shared%20Documents/Last%20Copy%20in%20System.pdf" target="_blank">Last Copy Processing</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/Shared%20Documents/3%20Letter%20Branch%20Codes.pdf" target="_blank">3Letter Branch Codes</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/Shared%20Documents/Leap%20Scenario%20Workbook.pdf" target="_blank">LEAP Training Workbook</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/Shared%20Documents/LEAP%20Adding%20On%20the%20Fly%20Records.pdf" target="_blank">On the Fly Processing</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/SitePages/Home.aspx?CT=1725913895473&OR=OWA-NT-Mail&CID=cd345f21-b601-2eee-dbda-1353cdbaa5a0" target="_blank">Procedures - How to do stuff</a><br />
+- {{<extlink text="BRANCH PROCEDURES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/SitePages/Home.aspx" icon="fa fa-external-link">}}
+- {{<extlink text="INN-REACH PROCESSING" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/Shared%20Documents/INN-Reach%20Processing.pdf" icon="fa fa-external-link">}}
+- {{<extlink text="LAST COPY PROCESSING" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/Shared%20Documents/Last%20Copy%20in%20System.pdf" icon="fa fa-external-link">}}
+- {{<extlink text="ON THE FLY PROCESSING" href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/Shared%20Documents/LEAP%20Adding%20On%20the%20Fly%20Records.pdf" icon="fa fa-external-link">}}
+- {{<extlink text="BRANCH PROCEDURES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/SitePages/Home.aspx" icon="fa fa-external-link">}}
+- {{<extlink text="BRANCH PROCEDURES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/SitePages/Home.aspx" icon="fa fa-external-link">}}
+- {{<extlink text="BRANCH PROCEDURES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/SitePages/Home.aspx" icon="fa fa-external-link">}}
 
 
 
 #  ☝️ FORMS FOR CUSTOMERS ☝️
 
+- {{<extlink text="NICHE ACADEMY" href="" icon="fa fa-external-link">}}
+- {{<extlink text="NICHE ACADEMY" href="https://my.nicheacademy.com/sandiego-staff/course/42197/lesson/134893" icon="fa fa-external-link">}}
+- 
 <li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/Shared%20Documents/Internet%20and%20DVD%20Parental%20Consent%20-%20English%20and%20Spanish.pdf" target="_blank">Internet and DVD Consent Form</a><br />
 <li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/Shared%20Documents/Library%20Card%20Application%20-%20English%20and%20Spanish.pdf" target="_blank">Library Card Application English / Spanish</a><br />
 
