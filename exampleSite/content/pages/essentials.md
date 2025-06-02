@@ -5,6 +5,7 @@ url: "/essentials/"
 
 #                 ☝️ Most IMPORTANT ☝️
 
+- {{<extlink text="SDCL" href="http://sdcl.org/" icon="fa fa-external-link">}}
 <li><a href="http://leap.sdcl.org/leapwebapp/login" target="_blank">LEAP</a></li>
 <li><a href="http://sdcl.org/" target="_blank">SDCL</a></li>
 <li><a href="https://www.sdcl.org/elibrary/" target="_blank">ELibrary</a></li>
