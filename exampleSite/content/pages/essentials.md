@@ -91,13 +91,11 @@ url: "/essentials/"
 
 # ☝️ USPS REFERENCE ☝️
 
-<li><a href="http://zip4.usps.com/zip4/welcome.jsp" target="_blank">ZIP Code</a><br />
-<li><a href="https://pe.usps.com/text/pub28/28apc_002.htm" target="_blank">Street Abbreviations</a><br />
-
+- {{<extlink text="ZIP CODE LOOK UP" href="http://zip4.usps.com/zip4/welcome.jsp" icon="fa fa-external-link">}}
+- {{<extlink text="STREET ABBREVIATIONS" href="https://pe.usps.com/text/pub28/28apc_002.htm" icon="fa fa-external-link">}}
 
 
 # ☝️ ELECTIONS ☝️
 
-<li><a href="https://www.sdvote.com/content/rov/en/elections/election_information.html" target="_blank">SDVOTE.ORG</a><br />
-
+- {{<extlink text="SDVOTE.ORG" href="https://www.sdvote.com/content/rov/en/elections/election_information.html" icon="fa fa-external-link">}}
 
