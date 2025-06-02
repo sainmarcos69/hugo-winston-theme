@@ -17,19 +17,17 @@ url: "/essentials/"
 
 #  ☝️ MOST USEFUL☝️
 
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Home.aspx/" target="_blank">Intranet</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/InSite/Pages/default.aspx" target="_blank">SD County Insite Page</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/BranchSites/SM/Page%20Library/Shared%20Documents.aspx" target="_blank">Share Documents</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/Programming/SitePages/Home.aspx" target="_blank">LME</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Forms.aspx" target="_blank">FORMS</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Bi-Weekly%20Department%20Updates.aspx" target="_blank">REQUIRED BI-WEEKLY MEETINGS</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/SitePages/Training%20Resources.aspx" target="_blank">LEAP Training</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Staff.aspx" target="_blank">STAFF</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/SitePages/Home.aspx" target="_blank">Procedures</a><br />
-<li><a href="https://sdcltcs.sdcounty.ca.gov/totecheckin.xhtml" target="_blank">TOTE CHECK-IN</a><br />
-<li><a href="https://cosdremote.sandiegocounty.gov/?ID=5c0eda70-7bd3-4544-c5e9-54ef5484db9a#/apps" target="_blank">PEOPLESOFT</a><br />
-
-
+- {{<extlink Intranet="SDCL" href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Home.aspx/" icon="fa fa-external-link">}}
+- {{<extlink text="Insite Page" href="https://sdcountycagov.sharepoint.com/sites/InSite/Pages/default.aspx" icon="fa fa-external-link">}}
+- {{<extlink text="Shared Documents" href="https://sdcountycagov.sharepoint.com/sites/SDCL/BranchSites/SM/Page%20Library/Shared%20Documents.aspx" icon="fa fa-external-link">}}
+- {{<extlink text="LME" href="" icon="fa fa-external-link">}}
+- {{<extlink text="https://sdcountycagov.sharepoint.com/sites/SDCL/Programming/SitePages/Home.aspx" icon="fa fa-external-link">}}
+- {{<extlink text="FORMS" href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Forms.aspx" icon="fa fa-external-link">}}
+- {{<extlink text="BI-WEEKLY MEETING NOTES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Bi-Weekly%20Department%20Updates.aspx" icon="fa fa-external-link">}}
+- {{<extlink text="SDCL" href="" icon="fa fa-external-link">}}
+- {{<extlink text="STAFF" href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Staff.aspx" icon="fa fa-external-link">}}
+- {{<extlink text="BRANCH PROCEDURES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/SitePages/Home.aspx" icon="fa fa-external-link">}}
+- {{<extlink text="PEOPLESOFT" href="https://cosdremote.sandiegocounty.gov/?ID=5c0eda70-7bd3-4544-c5e9-54ef5484db9a#/apps" icon="fa fa-external-link">}}
 
 #  ☝️ SDCL RESOURCES ☝️
 
@@ -45,6 +43,7 @@ url: "/essentials/"
 
 <li><a href="https://cosdlms.sumtotal.host/rcore/c/dash/home/Learner?isDeepLink=1" target="_blank">LEARNING MANAGEMENT SYSTEMS</a><br />
 <li><a href="https://my.nicheacademy.com/sandiego-staff/course/42197/lesson/134893" target="_blank">Niche Academy</a><br />
+<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/SitePages/Training%20Resources.aspx" target="_blank">LEAP Training</a><br />
 
 
 
