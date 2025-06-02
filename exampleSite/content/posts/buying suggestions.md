@@ -1,0 +1,11 @@
+---
+title: Buying suggestions
+date: 2025-06-02
+description: "buying suggestions"
+tags:
+   - buy suggestions
+   - recommendations
+
+ ---
+1. Put an item in search
+2. Scroll down at the bottom and you will see a link to contact branch support for buying
