@@ -1,4 +1,4 @@
-baseURL = "https://shiny-hotteok-005871.netlify.app/"
+baseURL = "https://lamworkdiary.netlify.app/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
