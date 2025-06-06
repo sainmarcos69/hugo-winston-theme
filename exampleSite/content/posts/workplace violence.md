@@ -1,5 +1,5 @@
 ---
-title: WorkPlace Violence TrainingProcessing Magazine
+title: WorkPlace Violence Training
 date: 2025-06-05
 description: "workplace violence training"
 tags:
@@ -10,4 +10,4 @@ tags:
    
 ---
 
-# This is annual training that needs to be completed by the 30th of June. 
+# This is annual training that needs to be completed by the 30th of June ANNUALLY. 
