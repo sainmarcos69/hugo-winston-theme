@@ -54,25 +54,16 @@ pygmentsUseClasses = true
   [[menu.main]]
     name = "Blog"
     identifier = "blog"
-    weight = 3
-    url = "/posts/"
-  [[menu.main]]
-    name = "About"
-    identifier = "about"
     weight = 2
-    url = "/About/"
-  [[menu.main]]
+    url = "/posts/"
+   [[menu.main]]
     name = "Tags"
     identifier = "tags"
-    weight = 4
+    weight = 3
     url = "/tags/"
    [[menu.main]]
     name = "Task"
     identifier = "task"
-    weight = 5
+    weight = 3
     url = "/task/" 
-    [[menu.main]]
-    name = "Essentials"
-    identifier = "essentials"
-    weight = 6
-    url = "/essentials/" 
+   
